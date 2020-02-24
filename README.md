@@ -1,4 +1,4 @@
-# Scraping ADP Data from Fantasy Football Calculator in Python
+# Scraping Fantasy Football ADP Data in Python
 
 Example showing how to scrape ADP data from [Fantasy Football
 
